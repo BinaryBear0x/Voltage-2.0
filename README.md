@@ -2,4 +2,6 @@
 for windows 7-8-10
 
 VOLTAGE is a battery monitoring application.
+
+
 <img src="Voltage logoson.png" alt="logo">
