@@ -2,4 +2,4 @@
 for windows 7-8-10
 
 VOLTAGE is a battery monitoring application.
-!logo (https://www.hizliresim.com/592rubu)
+![logo] (https://www.hizliresim.com/592rubu)
