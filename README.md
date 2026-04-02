@@ -1,7 +1,22 @@
 # Voltage-2.0
-for windows 7-8-10
 
-VOLTAGE is a battery monitoring application.
+Voltage-2.0, Windows tarafından üretilen pil raporunu okuyup pil sağlığı ve temel batarya bilgilerini kullanıcıya gösteren masaüstü uygulamasıdır.
 
+## Ne Yapar
 
-<img src="Voltage logoson.png" alt="logo">
+- `powercfg /batteryreport` çıktısını üretir
+- HTML raporu parse eder
+- tasarım kapasitesi ve tam dolum kapasitesini karşılaştırır
+- pil sağlığını yüzdesel olarak gösterir
+
+## Teknolojiler
+
+- C#
+- Windows Forms
+- HtmlAgilityPack
+
+## Notlar
+
+- Uygulama yönetici yetkisiyle çalıştırılmalıdır
+- Özellikle bataryalı Windows cihazlar için anlamlıdır
+
